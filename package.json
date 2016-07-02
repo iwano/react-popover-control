@@ -16,10 +16,10 @@
   "main": "lib/index.js",
   "dependencies": {
     "keycode": "^2.1.0",
-    "lodash": "^3.8.0"
+    "lodash": "^3.8.0",
+    "react": "^15.2.0"
   },
   "peerDependencies": {
-    "react": "^0.13.2",
     "active-event-stack": "^1.0.0"
   },
   "scripts": {
